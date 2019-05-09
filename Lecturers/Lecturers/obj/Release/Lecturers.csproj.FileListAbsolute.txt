@@ -1,0 +1,11 @@
+C:\Users\AsusCenter\Documents\Visual Studio 2017\Projects\Lecturers\Lecturers\bin\Release\Lecturers.exe.config
+C:\Users\AsusCenter\Documents\Visual Studio 2017\Projects\Lecturers\Lecturers\bin\Release\Lecturers.exe
+C:\Users\AsusCenter\Documents\Visual Studio 2017\Projects\Lecturers\Lecturers\bin\Release\Lecturers.pdb
+C:\Users\AsusCenter\Documents\Visual Studio 2017\Projects\Lecturers\Lecturers\obj\Release\Lecturers.csproj.CoreCompileInputs.cache
+C:\Users\AsusCenter\Documents\Visual Studio 2017\Projects\Lecturers\Lecturers\obj\Release\Lecturers.exe
+C:\Users\AsusCenter\Documents\Visual Studio 2017\Projects\Lecturers\Lecturers\obj\Release\Lecturers.pdb
+C:\Users\AsusCenter\Documents\Visual Studio 2017\Projects\Lecturers\Lecturers\bin\Release\Lecturers.exe.manifest
+C:\Users\AsusCenter\Documents\Visual Studio 2017\Projects\Lecturers\Lecturers\bin\Release\Lecturers.application
+C:\Users\AsusCenter\Documents\Visual Studio 2017\Projects\Lecturers\Lecturers\obj\Release\Lecturers.csprojAssemblyReference.cache
+C:\Users\AsusCenter\Documents\Visual Studio 2017\Projects\Lecturers\Lecturers\obj\Release\Lecturers.exe.manifest
+C:\Users\AsusCenter\Documents\Visual Studio 2017\Projects\Lecturers\Lecturers\obj\Release\Lecturers.application

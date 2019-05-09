@@ -1,0 +1,7 @@
+C:\Users\AsusCenter\Documents\Visual Studio 2017\Projects\Lecturers\Lecturers\obj\Debug\Lecturers.csprojAssemblyReference.cache
+C:\Users\AsusCenter\Documents\Visual Studio 2017\Projects\Lecturers\Lecturers\obj\Debug\Lecturers.csproj.CoreCompileInputs.cache
+C:\Users\AsusCenter\Documents\Visual Studio 2017\Projects\Lecturers\Lecturers\bin\Debug\Lecturers.exe.config
+C:\Users\AsusCenter\Documents\Visual Studio 2017\Projects\Lecturers\Lecturers\bin\Debug\Lecturers.exe
+C:\Users\AsusCenter\Documents\Visual Studio 2017\Projects\Lecturers\Lecturers\bin\Debug\Lecturers.pdb
+C:\Users\AsusCenter\Documents\Visual Studio 2017\Projects\Lecturers\Lecturers\obj\Debug\Lecturers.exe
+C:\Users\AsusCenter\Documents\Visual Studio 2017\Projects\Lecturers\Lecturers\obj\Debug\Lecturers.pdb
